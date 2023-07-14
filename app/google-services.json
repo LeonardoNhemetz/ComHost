@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "206261816972",
+    "firebase_url": "https://iurdcom-f0337.firebaseio.com",
+    "project_id": "iurdcom-f0337",
+    "storage_bucket": "iurdcom-f0337.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206261816972:android:b9f24aeebabd65c6",
+        "android_client_info": {
+          "package_name": "com.iurd_com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206261816972-b5ca96rfc6ti66t910qslpkacv4qdgcv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOBGVXYgpABM043WQhg1MDFnnDJbpWADg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
